@@ -1,0 +1,11 @@
+{
+  "id": "karlson",
+  "originalName": "karlson.zip",
+  "totalSize": 20002086,
+  "mimeType": "application/zip",
+  "chunkSize": 19922944,
+  "chunks": [
+    "karlson.zip.000",
+    "karlson.zip.001"
+  ]
+}
