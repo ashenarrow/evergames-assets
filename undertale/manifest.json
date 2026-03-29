@@ -1,0 +1,11 @@
+{
+  "id": "undertale",
+  "originalName": "undertale.zip",
+  "totalSize": 105545524,
+  "mimeType": "application/zip",
+  "chunkSize": 99614720,
+  "chunks": [
+    "undertale.zip.000",
+    "undertale.zip.001"
+  ]
+}
